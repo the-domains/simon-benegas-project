@@ -1,0 +1,28 @@
+name: Simon Benegas Project
+favicon: null
+layout_spectrum: 0.36600646818988025
+typography_spectrum: 0.06811335659585893
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.943265600129962
+  lightness: 0.8624527517240494
+  saturation: 0.08905854541808367
+  rhythmicContrast: 0.814063023077324
+purpose: []

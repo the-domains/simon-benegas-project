@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Simon Benegas Project]]></title>
         <description><![CDATA[Simon Benegas Project]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/simon-benegas-project/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Apr 2016 00:36:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 10 Apr 2016 00:37:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/simon-benegas-project/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f39cf697-f1f4-4c83-bb3b-ecb1890cf79d.jpg">]]></description>
+            <link>https://thegrid.ai/simon-benegas-project/cbb958eb-146a-4de1-a678-366cf378eef9/index.html</link>
+            <guid isPermaLink="false">cbb958eb-146a-4de1-a678-366cf378eef9</guid>
+            <pubDate>Sun, 10 Apr 2016 00:36:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c9389a3-f95b-423c-84ce-1f37c1374a63.jpg">]]></description>
-            <link>undefinedeed87891-42fe-4b22-9325-1c7df733f067/index.html</link>
+            <link>https://thegrid.ai/simon-benegas-project/eed87891-42fe-4b22-9325-1c7df733f067/index.html</link>
             <guid isPermaLink="false">eed87891-42fe-4b22-9325-1c7df733f067</guid>
             <pubDate>Sun, 10 Apr 2016 00:35:58 GMT</pubDate>
         </item>
